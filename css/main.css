@@ -1872,6 +1872,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   .banner-area .fullscreen {
     height: 750px !important; }
 
+.title-emphasis {
+  color: #4285F4; }
+
 .banner-left h6 {
   text-transform: uppercase;
   font-weight: 300;
